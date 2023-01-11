@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
+<img align="middle" alt="Coding" width="200" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
 <h3 align="center">A passionate developer from Egypt</h3>
 
 <h3 align="left">Connect with me:</h3>
